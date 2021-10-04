@@ -45,7 +45,7 @@ $(function() {
 	var currentMarker;
 	
 	var assetsUrl = function() {
-		return 'https://skyrossm.github.io/np-gangmap/';
+		return 'https://encorerp.github.io/erp-gangmap/';
 	};
 
 	Handlebars.registerHelper('assetsUrl', assetsUrl);
