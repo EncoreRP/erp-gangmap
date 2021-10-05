@@ -1,298 +1,368 @@
-[
-    {
-        "id": 1,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 1,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "lostmc",
-        "latlngarray": [{
-                "lat": 69.235,
-                "lng": -115.577
-            },
-            {
-                "lat": 69.417,
-                "lng": -115.050
-            },
-            {
-                "lat": 69.173,
-                "lng": -114.413
-            },
-            {
-                "lat": 69.079,
-                "lng": -114.655
-            },
-            {
-                "lat": 69.043,
-                "lng": -114.698
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 2,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "fudge",
-        "latlngarray": [{
-                "lat": 63.062,
-                "lng": -113.514
-            },
-            {
-                "lat": 63.379,
-                "lng": -113.788
-            },
-            {
-                "lat": 63.374,
-                "lng": -113.426
-            },
-            {
-                "lat": 63.935,
-                "lng": -112.492
-            },
-            {
-                "lat": 63.959,
-                "lng": -112.283
-            },
-            {
-                "lat": 63.697,
-                "lng": -112.085
-            },
-            {
-                "lat": 63.467,
-                "lng": -111.756
-            },
-            {
-                "lat": 63.251,
-                "lng": -112.404
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 3,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "industrial",
-        "latlngarray": [{
-                "lat": 66.656,
-                "lng": -117.148
-            },
-            {
-                "lat": 66.656,
-                "lng": -118.477
-            },
-            {
-                "lat": 67.079,
-                "lng": -118.488
-            },
-            {
-                "lat": 67.423,
-                "lng": -118.302
-            },
-            {
-                "lat": 67.330,
-                "lng": -117.544
-            },
-            {
-                "lat": 67.292,
-                "lng": -117.159
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 4,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "vagos",
-        "latlngarray": [{
-                "lat": 61.426,
-                "lng": -122.174
-            },
-            {
-                "lat": 62.004,
-                "lng": -121.120
-            },
-            {
-                "lat": 61.474,
-                "lng": -120.043
-            },
-            {
-                "lat": 61.305,
-                "lng": -120.361
-            },
-            {
-                "lat": 61.078,
-                "lng": -120.790
-            },
-            {
-                "lat": 61.014,
-                "lng": -121.076
-            },
-            {
-                "lat": 61.088,
-                "lng": -121.405
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 5,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "ballas",
-        "latlngarray": [{
-                "lat": 62.114,
-                "lng": -122.668
-            },
-            {
-                "lat": 61.789,
-                "lng": -123.217
-            },
-            {
-                "lat": 61.633,
-                "lng": -123.294
-            },
-            {
-                "lat": 61.633,
-                "lng": -123.701
-            },
-            {
-                "lat": 61.929,
-                "lng": -124.074
-            },
-            {
-                "lat": 62.006,
-                "lng": -124.305
-            },
-            {
-                "lat": 62.329,
-                "lng": -123.624
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 6,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "families",
-        "latlngarray": [{
-                "lat": 62.839,
-                "lng": -126.257
-            },
-            {
-                "lat": 63.098,
-                "lng": -126.983
-            },
-            {
-                "lat": 63.321,
-                "lng": -127.894
-            },
-            {
-                "lat": 63.738,
-                "lng": -127.290
-            },
-            {
-                "lat": 63.984,
-                "lng": -127.136
-            },
-            {
-                "lat": 64.215,
-                "lng": -127.136
-            },
-            {
-                "lat": 64.224,
-                "lng": -126.950
-            },
-            {
-                "lat": 63.489,
-                "lng": -125.016
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 7,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "seoul",
-        "latlngarray": [{
-                "lat": 66.005,
-                "lng": -132.536
-            },
-            {
-                "lat": 66.237,
-                "lng": -132.832
-            },
-            {
-                "lat": 66.614,
-                "lng": -132.832
-            },
-            {
-                "lat": 66.614,
-                "lng": -131.887
-            },
-            {
-                "lat": 66.382,
-                "lng": -131.898
-            },
-            {
-                "lat": 66.214,
-                "lng": -132.052
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "type": "Territory Areas",
-        "title": "Unclaimed",
-        "notes": "Unclaimed Territory",
-        "order": 8,
-        "strokecolor": "#FF0000",
-        "fillcolor": "#FF0000",
-        "internalName": "vespucci",
-        "latlngarray": [{
-                "lat": 63.097,
-                "lng": -135.137
-            },
-            {
-                "lat": 63.556,
-                "lng": -135.852
-            },
-            {
-                "lat": 63.703,
-                "lng": -135.357
-            },
-            {
-                "lat": 63.345,
-                "lng": -134.709
-            },
-            {
-                "lat": 63.271,
-                "lng": -134.698
-            }
-        ]
-    }
+[{
+    "id": 1,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 1,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "lostmc",
+    "latlngarray": [{
+            "lat": 69.235,
+            "lng": -115.577
+        },
+        {
+            "lat": 69.417,
+            "lng": -115.050
+        },
+        {
+            "lat": 69.173,
+            "lng": -114.413
+        },
+        {
+            "lat": 69.079,
+            "lng": -114.655
+        },
+        {
+            "lat": 69.043,
+            "lng": -114.698
+        }
+    ]
+},
+{
+    "id": 2,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 2,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "fudge",
+    "latlngarray": [{
+            "lat": 63.062,
+            "lng": -113.514
+        },
+        {
+            "lat": 63.379,
+            "lng": -113.788
+        },
+        {
+            "lat": 63.374,
+            "lng": -113.426
+        },
+        {
+            "lat": 63.935,
+            "lng": -112.492
+        },
+        {
+            "lat": 63.959,
+            "lng": -112.283
+        },
+        {
+            "lat": 63.697,
+            "lng": -112.085
+        },
+        {
+            "lat": 63.467,
+            "lng": -111.756
+        },
+        {
+            "lat": 63.251,
+            "lng": -112.404
+        }
+    ]
+},
+{
+    "id": 3,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 3,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "industrial",
+    "latlngarray": [{
+            "lat": 66.656,
+            "lng": -117.148
+        },
+        {
+            "lat": 66.656,
+            "lng": -118.477
+        },
+        {
+            "lat": 67.079,
+            "lng": -118.488
+        },
+        {
+            "lat": 67.423,
+            "lng": -118.302
+        },
+        {
+            "lat": 67.330,
+            "lng": -117.544
+        },
+        {
+            "lat": 67.292,
+            "lng": -117.159
+        }
+    ]
+},
+{
+    "id": 4,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 4,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "vagos",
+    "latlngarray": [{
+            "lat": 61.426,
+            "lng": -122.174
+        },
+        {
+            "lat": 62.004,
+            "lng": -121.120
+        },
+        {
+            "lat": 61.474,
+            "lng": -120.043
+        },
+        {
+            "lat": 61.305,
+            "lng": -120.361
+        },
+        {
+            "lat": 61.078,
+            "lng": -120.790
+        },
+        {
+            "lat": 61.014,
+            "lng": -121.076
+        },
+        {
+            "lat": 61.088,
+            "lng": -121.405
+        }
+    ]
+},
+{
+    "id": 5,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 5,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "ballas",
+    "latlngarray": [{
+            "lat": 62.114,
+            "lng": -122.668
+        },
+        {
+            "lat": 61.789,
+            "lng": -123.217
+        },
+        {
+            "lat": 61.633,
+            "lng": -123.294
+        },
+        {
+            "lat": 61.633,
+            "lng": -123.701
+        },
+        {
+            "lat": 61.929,
+            "lng": -124.074
+        },
+        {
+            "lat": 62.006,
+            "lng": -124.305
+        },
+        {
+            "lat": 62.329,
+            "lng": -123.624
+        }
+    ]
+},
+{
+    "id": 6,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 6,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "families",
+    "latlngarray": [{
+            "lat": 62.839,
+            "lng": -126.257
+        },
+        {
+            "lat": 63.098,
+            "lng": -126.983
+        },
+        {
+            "lat": 63.321,
+            "lng": -127.894
+        },
+        {
+            "lat": 63.738,
+            "lng": -127.290
+        },
+        {
+            "lat": 63.984,
+            "lng": -127.136
+        },
+        {
+            "lat": 64.215,
+            "lng": -127.136
+        },
+        {
+            "lat": 64.224,
+            "lng": -126.950
+        },
+        {
+            "lat": 63.489,
+            "lng": -125.016
+        }
+    ]
+},
+{
+    "id": 7,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 7,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "seoul",
+    "latlngarray": [{
+            "lat": 66.005,
+            "lng": -132.536
+        },
+        {
+            "lat": 66.237,
+            "lng": -132.832
+        },
+        {
+            "lat": 66.614,
+            "lng": -132.832
+        },
+        {
+            "lat": 66.614,
+            "lng": -131.887
+        },
+        {
+            "lat": 66.382,
+            "lng": -131.898
+        },
+        {
+            "lat": 66.214,
+            "lng": -132.052
+        }
+    ]
+},
+{
+    "id": 8,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 8,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "vespucci",
+    "latlngarray": [{
+            "lat": 63.097,
+            "lng": -135.137
+        },
+        {
+            "lat": 63.556,
+            "lng": -135.852
+        },
+        {
+            "lat": 63.703,
+            "lng": -135.357
+        },
+        {
+            "lat": 63.345,
+            "lng": -134.709
+        },
+        {
+            "lat": 63.271,
+            "lng": -134.698
+        }
+    ]
+},
+{
+    "id": 9,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 9,
+    "strokecolor": "#f59d79",
+    "fillcolor": "#f59d79",
+    "internalName": "docks",
+    "latlngarray": [{
+            "lat": 58.438,
+            "lng": -127.087
+        },
+        {
+            "lat": 58.097,
+            "lng": -127.746
+        },
+        {
+            "lat": 58.028,
+            "lng": -127.329
+        },
+        {
+            "lat": 57.923,
+            "lng": -127.318
+        },
+        {
+            "lat": 57.888,
+            "lng": -127.999
+        },
+        {
+            "lat": 57.553,
+            "lng": -128.614
+        },
+        {
+            "lat": 57.553,
+            "lng": -128.735
+        },
+        {
+            "lat": 57.121,
+            "lng": -129.559
+        },
+        {
+            "lat": 57.771,
+            "lng": -130.163
+        },
+        {
+            "lat": 58.016,
+            "lng": -129.691
+        },
+        {
+            "lat": 58.074,
+            "lng": -129.823
+        },
+        {
+            "lat": 59.099,
+            "lng": -127.878
+        },
+        {
+            "lat": 59.082,
+            "lng": -127.713
+        },
+        {
+            "lat": 58.929,
+            "lng": -127.362
+        },
+        {
+            "lat": 58.805,
+            "lng": -127.263
+        }
+    ]
+}
 ]
