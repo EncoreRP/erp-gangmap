@@ -1,11 +1,11 @@
 [{
     "id": 1,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "The Lost MC",
+    "notes": "The Lost MC Territory",
     "order": 1,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#9E9E9E",
+    "fillcolor": "#9E9E9E",
     "internalName": "lostmc",
     "latlngarray": [{
             "lat": 69.235,
