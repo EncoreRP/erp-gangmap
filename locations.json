@@ -266,11 +266,11 @@
 {
     "id": 8,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Big Steppas",
+    "notes": "Big Steppas Territory",
     "order": 8,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#03A9F4",
+    "fillcolor": "#03A9F4",
     "internalName": "vespucci",
     "latlngarray": [{
             "lat": 63.097,
