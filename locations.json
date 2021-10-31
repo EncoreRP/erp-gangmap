@@ -110,11 +110,11 @@
 {
     "id": 4,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "The War Dogs",
+    "notes": "Claimed: 10/31/2021",
     "order": 4,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#9C27B0",
+    "fillcolor": "#9C27B0",
     "internalName": "vagos",
     "latlngarray": [{
             "lat": 61.426,
