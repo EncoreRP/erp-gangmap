@@ -231,11 +231,11 @@
 {
     "id": 7,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Rosine Crime Family",
+    "notes": "Claimed: 10/31/2021",
     "order": 7,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#FF69B4",
+    "fillcolor": "#FF69B4",
     "internalName": "seoul",
     "latlngarray": [{
             "lat": 66.005,
