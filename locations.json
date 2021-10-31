@@ -32,11 +32,11 @@
 {
     "id": 2,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Marabunta Grande",
+    "notes": "Claimed: 10/31/2021",
     "order": 2,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#42A5F5",
+    "fillcolor": "#42A5F5",
     "internalName": "fudge",
     "latlngarray": [{
             "lat": 63.062,
