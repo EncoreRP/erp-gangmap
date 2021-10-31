@@ -1,11 +1,11 @@
 [{
     "id": 1,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "The Lost MC",
+    "notes": "The Lost MC Territory",
     "order": 1,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#5e5e5e",
+    "fillcolor": "#5e5e5e",
     "internalName": "lostmc",
     "latlngarray": [{
             "lat": 69.235,
@@ -266,11 +266,11 @@
 {
     "id": 8,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Big Steppas",
+    "notes": "Big Steppas Territory",
     "order": 8,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#03A9F4",
+    "fillcolor": "#03A9F4",
     "internalName": "vespucci",
     "latlngarray": [{
             "lat": 63.097,
