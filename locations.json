@@ -32,11 +32,11 @@
 {
     "id": 2,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Marabunta Grande",
+    "notes": "Claimed: 10/31/2021",
     "order": 2,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#42A5F5",
+    "fillcolor": "#42A5F5",
     "internalName": "fudge",
     "latlngarray": [{
             "lat": 63.062,
@@ -110,11 +110,11 @@
 {
     "id": 4,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "The War Dogs",
+    "notes": "Claimed: 10/31/2021",
     "order": 4,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#9C27B0",
+    "fillcolor": "#9C27B0",
     "internalName": "vagos",
     "latlngarray": [{
             "lat": 61.426,
@@ -231,11 +231,11 @@
 {
     "id": 7,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Rosine Crime Family",
+    "notes": "Claimed: 10/31/2021",
     "order": 7,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#FF69B4",
+    "fillcolor": "#FF69B4",
     "internalName": "seoul",
     "latlngarray": [{
             "lat": 66.005,
