@@ -372,5 +372,53 @@
             "lng": -127.263
         }
     ]
+},
+{
+    "id": 1,
+    "type": "Territory Areas",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
+    "order": 6,
+    "strokecolor": "#FF0000",
+    "fillcolor": "#FF0000",
+    "internalName": "grapeseed",
+    "latlngarray": [
+        {
+            "lat": 80.784,
+            "lng": -108.519
+        },
+        {
+            "lat": 80.782,
+            "lng": -108.069
+        },
+        {
+            "lat": 80.767,
+            "lng": -107.557
+        },
+        {
+            "lat": 80.768,
+            "lng": -107.216
+        },
+        {
+            "lat": 80.805,
+            "lng": -106.871
+        },
+        {
+            "lat": 80.591,
+            "lng": -106.737
+        },
+        {
+            "lat": 80.576,
+            "lng": -107.518
+        },
+        {
+            "lat": 80.575,
+            "lng": -108.065
+        },
+        {
+            "lat": 80.632,
+            "lng": -108.461
+        }
+    ]
 }
 ]
