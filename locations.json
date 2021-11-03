@@ -397,11 +397,11 @@
 {
     "id": 10,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Fidus ex nihilo",
+    "notes": "Claimed: 11/03/2021",
     "order": 6,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#5e5e5e",
+    "fillcolor": "#5e5e5e",
     "internalName": "grapeseed",
     "latlngarray": [
         {
