@@ -115,6 +115,18 @@
             "lng": -117.148
         },
         {
+            "lat": 66.439,
+            "lng": -117.141
+        },
+        {
+            "lat": 66.072,
+            "lng": -117.065
+        },
+        {
+            "lat": 66.027,
+            "lng": -118.340
+        },
+        {
             "lat": 66.656,
             "lng": -118.477
         },
@@ -178,11 +190,11 @@
 {
     "id": 5,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Yakuza",
+    "notes": "Claimed: 11/04/2021",
     "order": 5,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#5e5e5e",
+    "fillcolor": "#5e5e5e",
     "internalName": "ballas",
     "latlngarray": [{
             "lat": 62.114,
