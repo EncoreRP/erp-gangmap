@@ -226,11 +226,11 @@
 {
     "id": 5,
     "type": "Territory Areas",
-    "title": "Yakuza",
-    "notes": "Claimed: 11/04/2021",
+    "title": "Unclaimed",
+    "notes": "Unclaimed Territory",
     "order": 5,
-    "strokecolor": "#5e5e5e",
-    "fillcolor": "#5e5e5e",
+    "strokecolor": "#FF0000",
+    "fillcolor": "#FF0000",
     "internalName": "ballas",
     "latlngarray": [{
             "lat": 62.114,
@@ -308,11 +308,11 @@
 {
     "id": 7,
     "type": "Territory Areas",
-    "title": "Rosine Crime Family",
+    "title": "Yakuza",
     "notes": "Claimed: 10/31/2021",
     "order": 7,
-    "strokecolor": "#FF69B4",
-    "fillcolor": "#FF69B4",
+    "strokecolor": "#FFEB3B",
+    "fillcolor": "#FFEB3B",
     "internalName": "seoul",
     "latlngarray": [{
             "lat": 66.005,
