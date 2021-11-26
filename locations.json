@@ -242,11 +242,11 @@
 {
     "id": 5,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Disciples",
+    "notes": "Claimed: 11/19/2021",
     "order": 5,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#5e5e5e",
+    "fillcolor": "#5e5e5e",
     "internalName": "ballas",
     "latlngarray": [{
             "lat": 62.114,
