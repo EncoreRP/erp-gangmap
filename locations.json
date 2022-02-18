@@ -4,8 +4,8 @@
     "title": "The Lost MC",
     "notes": "Claimed: 10/29/2021",
     "order": 1,
-    "strokecolor": "#5e5e5e",
-    "fillcolor": "#5e5e5e",
+    "strokecolor": "#1f1f1f",
+    "fillcolor": "#383838",
     "internalName": "lostmc",
     "latlngarray": [
         {
@@ -64,8 +64,8 @@
     "title": "Marabunta Grande",
     "notes": "Claimed: 10/31/2021",
     "order": 2,
-    "strokecolor": "#42A5F5",
-    "fillcolor": "#42A5F5",
+    "strokecolor": "#001eff",
+    "fillcolor": "#001eff",
     "internalName": "fudge",
     "latlngarray": [{
             "lat": 63.062,
@@ -139,8 +139,8 @@
     "title": "510",
     "notes": "Claimed: 10/30/2021",
     "order": 3,
-    "strokecolor": "#e46400",
-    "fillcolor": "#e46400",
+    "strokecolor": "#695a46",
+    "fillcolor": "#D2B48C",
     "internalName": "industrial",
     "latlngarray": [{
             "lat": 66.656,
@@ -214,6 +214,34 @@
             "lng": -121.860
         },
         {
+            "lat": 63.300,
+            "lng": -120.000
+        },
+        {
+            "lat": 63.150,
+            "lng": -119.580
+        },
+        {
+            "lat": 63.073,
+            "lng": -119.712
+        },
+        {
+            "lat": 62.833,
+            "lng": -119.898
+        },
+        {
+            "lat": 62.713,
+            "lng": -119.844
+        },
+        {
+            "lat": 62.532,
+            "lng": -120.182
+        },
+        {
+            "lat": 62.061,
+            "lng": -121.261
+        },
+        {
             "lat": 62.004,
             "lng": -121.120
         },
@@ -242,11 +270,11 @@
 {
     "id": 5,
     "type": "Territory Areas",
-    "title": "Disciples",
-    "notes": "Claimed: 11/19/2021",
+    "title": "Ballas",
+    "notes": "",
     "order": 5,
-    "strokecolor": "#5e5e5e",
-    "fillcolor": "#5e5e5e",
+    "strokecolor": "#4e1c54",
+    "fillcolor": "#878787",
     "internalName": "ballas",
     "latlngarray": [{
             "lat": 62.114,
@@ -281,11 +309,11 @@
 {
     "id": 6,
     "type": "Territory Areas",
-    "title": "Unclaimed",
-    "notes": "Unclaimed Territory",
+    "title": "Big Steppas",
+    "notes": "",
     "order": 6,
-    "strokecolor": "#FF0000",
-    "fillcolor": "#FF0000",
+    "strokecolor": "#3e6640",
+    "fillcolor": "#4CAF50",
     "internalName": "families",
     "latlngarray": [{
             "lat": 62.839,
@@ -324,11 +352,11 @@
 {
     "id": 7,
     "type": "Territory Areas",
-    "title": "Yakuza",
-    "notes": "Claimed: 10/31/2021",
+    "title": "The Forsaken",
+    "notes": "",
     "order": 7,
-    "strokecolor": "#FFEB3B",
-    "fillcolor": "#FFEB3B",
+    "strokecolor": "#383838",
+    "fillcolor": "#383838",
     "internalName": "seoul",
     "latlngarray": [{
             "lat": 66.005,
@@ -359,11 +387,11 @@
 {
     "id": 8,
     "type": "Territory Areas",
-    "title": "Big Steppas",
-    "notes": "Claimed: 10/29/2021",
+    "title": "Angels of Death",
+    "notes": "",
     "order": 8,
-    "strokecolor": "#006400",
-    "fillcolor": "#006400",
+    "strokecolor": "#8a0000",
+    "fillcolor": "#383838",
     "internalName": "vespucci",
     "latlngarray": [{
             "lat": 63.097,
@@ -393,7 +421,7 @@
     "title": "The Syndicate",
     "notes": "Claimed: 10/30/2021",
     "order": 9,
-    "strokecolor": "#4CAF50",
+    "strokecolor": "#383838",
     "fillcolor": "#4CAF50",
     "internalName": "docks",
     "latlngarray": [{
@@ -529,8 +557,8 @@
 {
     "id": 10,
     "type": "Territory Areas",
-    "title": "Fidus ex nihilo",
-    "notes": "Claimed: 11/03/2021",
+    "title": "Black Lotus",
+    "notes": "",
     "order": 6,
     "strokecolor": "#5e5e5e",
     "fillcolor": "#5e5e5e",
@@ -541,16 +569,24 @@
             "lng": -108.519
         },
         {
-            "lat": 80.786,
-            "lng": -108.069
+            "lat": 80.926,
+            "lng": -108.674
         },
         {
-            "lat": 80.767,
-            "lng": -107.557
+            "lat": 80.947,
+            "lng": -107.323
         },
         {
-            "lat": 80.768,
-            "lng": -107.216
+            "lat": 80.885,
+            "lng": -107.136
+        },
+        {
+            "lat": 80.862,
+            "lng": -106.982
+        },
+        {
+            "lat": 80.822,
+            "lng": -106.894
         },
         {
             "lat": 80.815,
