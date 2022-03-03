@@ -296,7 +296,7 @@
     "notes": "",
     "order": 5,
     "strokecolor": "#4e1c54",
-    "fillcolor": "#878787",
+    "fillcolor": "#ffffff",
     "internalName": "ballas",
     "latlngarray": [{
             "lat": 62.114,
@@ -374,11 +374,11 @@
 {
     "id": 7,
     "type": "Territory Areas",
-    "title": "The Forsaken",
+    "title": "La Cosa Nostra",
     "notes": "",
     "order": 7,
-    "strokecolor": "#383838",
-    "fillcolor": "#383838",
+    "strokecolor": "#8a0000",
+    "fillcolor": "#ffffff",
     "internalName": "seoul",
     "latlngarray": [{
             "lat": 66.005,
@@ -599,7 +599,7 @@
     "notes": "",
     "order": 6,
     "strokecolor": "#5e5e5e",
-    "fillcolor": "#5e5e5e",
+    "fillcolor": "#43A6C6",
     "internalName": "grapeseed",
     "latlngarray": [
         {
